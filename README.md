@@ -21,4 +21,4 @@
 
 ## إبدأ من هنا
 
-لمعرفة طريقة التثبيت و طريقة إستخدام هذا الثيم، راجع إلى [إعدادات القالب](http://flpydisk.com/jekyll-arabic-theme-hpstr/theme-setup/) لمزيد من المعلومات.
+لمعرفة طريقة التثبيت و طريقة إستخدام هذا الثيم، راجع إلى [إعدادات القالب](http://bomkarram.github.io/jekyll-arabic-theme-hpstr/%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%8A%D9%85/) لمزيد من المعلومات.
